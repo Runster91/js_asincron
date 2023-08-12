@@ -1,0 +1,19 @@
+{
+  "name": "ex-js-asincronia",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "saludar": "echo 'hola cómo estás?'"
+  },
+  "devDependencies": {
+    "vite": "^4.4.5"
+  },
+  "dependencies": {
+    "pokemon-plus": "^1.2.0",
+    "superheroes": "^3.0.0"
+  }
+}
